@@ -2,7 +2,7 @@
 
 Desarrollado en React utilizado styled-components, react-router-dom y react-icons
 
-![Demo aplicativo](./preview.JPG)
+![Demo aplicativo](preview.JPG)
 
 Para instalar aplicacion ejecutar:
 
